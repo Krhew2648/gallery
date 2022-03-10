@@ -1,0 +1,37 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Blog-AutoBiography.com</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<link href="../blog_folder/Assets/styles.css" rel="stylesheet" type="text/css">
+<!-- TemplateEndEditable -->
+</head>
+<body>
+<div id="container">
+  <header>
+    <p>&nbsp;</p>
+    <p>Life is a Canvas</p>
+  </header>
+  <nav>
+	<ul>
+	   <li><a href="about.html">About</a></li>
+	   <li><a href="blog.html">Blog</a></li>
+	   <li><a href="gallery.html">Gallery</a></li>
+	   <li><a href="contact.html">Contact</a></li>
+	</ul>
+    &nbsp;
+  </nav>
+  <aside><h3>The title represesents how I am an artist who wants to share their creations with the world. See how I have gotten this far and where I'm headed.</h3>
+	  <h3>By Kameron Rhew</h3></aside>
+	<!-- TemplateBeginEditable name="main-content" -->
+   <main>
+	<h1>header 1</h1>
+   </main>
+<!-- TemplateEndEditable -->
+  <footer>Content for New footer Tag Goes Here</footer>
+</div>
+</body>
+</html>
